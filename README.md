@@ -1,2 +1,2 @@
-# MegaProject
+# SmartScanAcademy.github.io
 My MegaProject
